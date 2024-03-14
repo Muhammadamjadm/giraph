@@ -315,35 +315,35 @@ under the License.
     <dep.airline.version>0.5</dep.airline.version>
     <dep.base64.version>2.3.8</dep.base64.version>
     <dep.cli-parser.version>1.1</dep.cli-parser.version>
-    <dep.codehaus-jackson.version>1.9.2</dep.codehaus-jackson.version>
+    <dep.codehaus-jackson.version>1.9.13-cloudera.1</dep.codehaus-jackson.version>
     <dep.commons-codec.version>1.8</dep.commons-codec.version>
     <dep.commons-cli.version>1.2</dep.commons-cli.version>
-    <dep.commons-collections.version>3.2.1</dep.commons-collections.version>
+    <dep.commons-collections.version>3.2.2</dep.commons-collections.version>
     <dep.commons-configuration.version>1.6</dep.commons-configuration.version>
     <dep.commons-httpclient.version>3.0.1</dep.commons-httpclient.version>
     <dep.commons-logging.version>1.1.1</dep.commons-logging.version>
-    <dep.commons-io.version>2.1</dep.commons-io.version>
-    <dep.commons-net.version>3.1</dep.commons-net.version>
+    <dep.commons-io.version>2.7</dep.commons-io.version>
+    <dep.commons-net.version>3.9.0</dep.commons-net.version>
     <dep.commons-lang3.version>3.4</dep.commons-lang3.version>
     <dep.facebook-swift.version>0.14.0</dep.facebook-swift.version>
-    <dep.fasterxml-jackson.version>2.10.0</dep.fasterxml-jackson.version>
+    <dep.fasterxml-jackson.version>2.12.7.1</dep.fasterxml-jackson.version>
     <dep.fastutil.version>6.5.4</dep.fastutil.version>
     <dep.google.findbugs.version>2.0.2</dep.google.findbugs.version>
     <dep.guava.version>21.0</dep.guava.version>
     <dep.jaxb-impl.version>2.2.4-1</dep.jaxb-impl.version>
     <dep.jersey.version>1.17</dep.jersey.version>
     <dep.jetty.version>6.1.26</dep.jetty.version>
-    <dep.json.version>20160810</dep.json.version>
-    <dep.junit.version>4.11</dep.junit.version>
+    <dep.json.version>20231013</dep.json.version>
+    <dep.junit.version>4.13.1</dep.junit.version>
     <dep.jython-standalone.version>2.7.2</dep.jython-standalone.version>
     <dep.kryo.version>4.0.0</dep.kryo.version>
     <dep.reflectasm.version>1.11.3</dep.reflectasm.version>
     <dep.kryo-serializers.version>0.42</dep.kryo-serializers.version>
-    <dep.libthrift.version>0.9.0</dep.libthrift.version>
-    <dep.log4j.version>1.2.17</dep.log4j.version>
+    <dep.libthrift.version>0.14.0</dep.libthrift.version>
+    <dep.log4j.version>1.2.17-cloudera1</dep.log4j.version>
     <dep.mockito.version>1.9.5</dep.mockito.version>
     <!-- note: old version of netty is required by hadoop_facebook for tests to succeed -->
-    <dep.netty.version>4.1.36.Final</dep.netty.version>
+    <dep.netty.version>4.1.42.Final</dep.netty.version>
     <dep.oldnetty.version>3.2.2.Final</dep.oldnetty.version>
     <dep.objenesis.version>2.2</dep.objenesis.version>
     <dep.openhft-compiler.version>2.2.1</dep.openhft-compiler.version>
@@ -352,7 +352,7 @@ under the License.
     <dep.typetools.version>0.2.1</dep.typetools.version>
     <dep.yammer-metrics.version>2.2.0</dep.yammer-metrics.version>
     <dep.yourkit-api.version>11.0.10</dep.yourkit-api.version>
-    <dep.zookeeper.version>3.4.5</dep.zookeeper.version>
+    <dep.zookeeper.version>3.7.2</dep.zookeeper.version>
 
     <forHadoop>for-hadoop-${hadoop.version}</forHadoop>
     <munge.symbols>NO_MUNGE_SYMBOLS</munge.symbols>
